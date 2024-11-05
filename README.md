@@ -1,5 +1,7 @@
 ## O objetivo do projeto
 
+teste windows
+
 O projeto Exchange de Criptomoedas tem o objetivo simular contas de usuários e suas movimentações financeiras envolvendo as Criptomoedas como Bitcoin, Etherium e Ripple. O programa realiza transações fictícias como por exemplo a compra, a venda, o depósito e o saque proporcionando dessa maneira uma vivência mais realista dessas operações.
 
 ## A forma de compilação e execução
